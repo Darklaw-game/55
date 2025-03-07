@@ -55,7 +55,7 @@ Instructions to deploy to a VPS can be found on the wiki, or <a href='https://gi
 
 ## Credits
 
-- [Interstellar](https://github.com/UseInterstellar/Interstellar) - Some of the proxy code and nav
+- [Interstellar](https://github.com/UseInterstellar/Interstellar) - Some of the 
 - [3kh0](https://gitlab.com/3kh0/3kh0-assets) - Some of games src
 
 ### Contributors
